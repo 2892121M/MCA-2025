@@ -26,7 +26,10 @@
 <body>
     <div class="box">
     <div class="header"><h1>Week 3</h1>
-        <p>[Insert your response to task 2 here.]</p>
+        <p>Element comparisons between XML and MEI:
+        • In XML, the pitch of a note is dictated by the 'step' element and the 'octave' element, which are children of the 'pitch' element. The 'step' element dictates the letter, whereas the 'octave' element indicates the octave. Meanwhile, MEI uses a larger 'note' element which contains information on both the pitch (pname) and the octave (oct).
+        • In MEI, the time signature is encompassed by the 'meterSig' element, within which the beat and measure are noted through 'count' and 'unit'. For example, a 3/4 time signature would have a count of 3 and a unit of 4. XML on the other hand uses the parent element 'time' which represents the beat and measure through the elements 'beats' and 'beat type' respectively.
+        • In MEI, dynamics are dictated using the 'dynam' function. Within this, the positioning of the letter is decided using the 'place' (above or below the score) 'stamp' (horizontal placement) and 'tstamp' (vertical placement). XML has a dedicated 'p' element (denoting piano) which is the child of the 'dynamics' element. Similarly to other XML elements, it is positioned using x and y coordinates.</p>
     </div>
     <div id="app">Verovio is loading...</div>
     <script type="module">
