@@ -11,7 +11,7 @@ The musical scores of piano waltzes are available through various online curatio
 
 Metadata on the sonatas is offered by the Sheet Music Consortium, but these are specifically in reference to the sheet music renditions of them produced posthumously. As much ofthe website's sheet music is not available online, this lessens its usefulness as a resource.
 
-Week 2-
+Week 2 -
 I am manually transcribing Euphemia Allan's 'The Celebrated Chop Waltz', based on the IMSLP's 1940 reprint of the first edition, using Musescore.
 
 The MacOS edition of the app did produce some minor confusion as MuseScore itself had to be installed seperately from a wider launcher titled Muselab, but I managed to quickly figure this out. 
@@ -21,3 +21,6 @@ Initially, I experienced some difficulty in trying to untoggle the rest. I soon 
 From here, the process became rather straightforward, and I was able to do things such create chords and change the time signature with ease, as well as adding a 'p' symbol to indicate a piano dynamic. I couldn't find 'staccato' text as seen in the original sheet music. The piece is rather repetitive, so I thought I would see if the software allowed for a copy and paste feature. Musescore carried over the intuitive process seen in most other operating systems wherein holding shift allowed for the selection of multiple notes, and this let me copy and paste both individual chords as well as entire bars.
 
 A slight inconvenience was the fact that, when using the keyboard to replace a rest with a note, Musescore would often select the note an octave higher or lower than I wanted, with seemingly little consistency: It selected middle c when I wanted c3 and selected g3 when I wanted g4. This didn't prove too troublesome though, as I was able to drag the note into the correct place afterwards.
+
+Week 3 -
+See verovio.html
