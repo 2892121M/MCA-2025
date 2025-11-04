@@ -26,11 +26,11 @@
 <body>
     <div class="box">
     <div class="header"><h1>Week 3</h1>
-        <p>Element comparisons between XML and MEI:
+        <p>Element comparisons between XML and MEI:<br>
             
-        • In XML, the pitch of a note is dictated by the 'step' element and the 'octave' element, which are children of the 'pitch' element. The 'step' element dictates the letter, whereas the 'octave' element indicates the octave. Meanwhile, MEI uses a larger 'note' element which contains information on both the pitch (pname) and the octave (oct). MEI's approach is much more compact, containing all the information within a singular element and thus taking up less lines.
+        • In XML, the pitch of a note is dictated by the 'step' element and the 'octave' element, which are children of the 'pitch' element. The 'step' element dictates the letter, whereas the 'octave' element indicates the octave. Meanwhile, MEI uses a larger 'note' element which contains information on both the pitch (pname) and the octave (oct). MEI's approach is much more compact, containing all the information within a singular element and thus taking up less lines.<br>
       
-        • In MEI, the time signature is encompassed by the 'meterSig' element, within which the beat and measure are noted through 'count' and 'unit'. For example, a 3/4 time signature would have a count of 3 and a unit of 4. XML on the other hand uses the parent element 'time' which represents the beat and measure through the elements 'beats' and 'beat type' respectively. Similarly to pitch, MEI's approach compact approach saves on lines.
+        • In MEI, the time signature is encompassed by the 'meterSig' element, within which the beat and measure are noted through 'count' and 'unit'. For example, a 3/4 time signature would have a count of 3 and a unit of 4. XML on the other hand uses the parent element 'time' which represents the beat and measure through the elements 'beats' and 'beat type' respectively. Similarly to pitch, MEI's approach compact approach saves on lines.<br>
        
         • In MEI, dynamics are dictated using the 'dynam' function. Within this, the positioning of the letter is decided using the 'place' (above or below the score) 'stamp' (horizontal placement) and 'tstamp' (vertical placement). XML has a dedicated 'p' element (denoting piano) which is the child of the 'dynamics' element. Similarly to other XML elements, it is positioned using x and y coordinates. MEI's approach to positioning the dynamic is much more accessible as its units of movement are based on the units of notes and as such will be easier to allign than would be the case with finding the exact x and y coordinates with XML.</p>
     </div>
