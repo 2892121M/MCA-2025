@@ -23,4 +23,6 @@ From here, the process became rather straightforward, and I was able to do thing
 A slight inconvenience was the fact that, when using the keyboard to replace a rest with a note, Musescore would often select the note an octave higher or lower than I wanted, with seemingly little consistency: It selected middle c when I wanted c3 and selected g3 when I wanted g4. This didn't prove too troublesome though, as I was able to drag the note into the correct place afterwards.
 
 Week 3 -
-See verovio.html
+See https://2892121m.github.io/MCA-2025/verovio.html
+
+Week 4 -
