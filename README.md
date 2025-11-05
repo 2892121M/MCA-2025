@@ -25,4 +25,8 @@ A slight inconvenience was the fact that, when using the keyboard to replace a r
 Week 3 -
 See https://2892121m.github.io/MCA-2025/verovio.html
 
-Week 4 -
+Week 4 - 
+Of note is that the features 'Last Pitch' and 'Most Common Rhythmic Value' were not present in the latest version of jSymbolic as downloaded from sourceforge [here.](https://sourceforge.net/projects/jmir/files/jSymbolic/) This may be a parity issue, as I used MacOS for this exercise.
+
+The features I looked at were: Pitch Variety, Range, Mean Pitch, Most Common Pitch, and Repeated Notes.
+
