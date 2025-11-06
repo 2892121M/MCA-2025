@@ -30,3 +30,7 @@ Of note is that the features 'Last Pitch' and 'Most Common Rhythmic Value' were 
 
 The features I looked at were: Pitch Variety, Range, Mean Pitch, Most Common Pitch, and Repeated Notes.
 
+Week 7 -
+I added the genre classifications of 'waltz' and 'piano' using the <annot> function. These genres were rather self explanitory - the piece follows the waltz structure in 3/4, and the piece is played using only piano.
+I added the specific licensing data of 'CC0 1.0 Universal' using the <accessrestrict> function. I followed the Creative Commons chooser to make this choice - as my piece is a transcription of a pre-existing public domain piece, I wished to give it that same accessibility so that future users can access and transform it easily.
+
