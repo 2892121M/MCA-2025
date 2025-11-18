@@ -1,7 +1,7 @@
 
 # Waltz dataset
 <!-- Version 1.0 -->
-Week 1 - 
+**Week 1** - 
 The theme of this dataset is piano waltzes. 
 
 A challenge I have experienced in the past when working with music and music curation is assigning metadata to audiofiles for more cohesive display in music players. When downloading mp3s, they often display as basic files with no metadata attached, requiring me to manually enter metadata such as the album art and the titles of the song, artist, and album.
@@ -11,7 +11,9 @@ The musical scores of piano waltzes are available through various online curatio
 
 Metadata on the sonatas is offered by the Sheet Music Consortium, but these are specifically in reference to the sheet music renditions of them produced posthumously. As much ofthe website's sheet music is not available online, this lessens its usefulness as a resource.
 
-Week 2 -
+
+
+**Week 2** -
 I am manually transcribing Euphemia Allan's 'The Celebrated Chop Waltz', based on the IMSLP's 1940 reprint of the first edition, using Musescore.
 
 The MacOS edition of the app did produce some minor confusion as MuseScore itself had to be installed seperately from a wider launcher titled Muselab, but I managed to quickly figure this out. 
@@ -22,7 +24,9 @@ From here, the process became rather straightforward, and I was able to do thing
 
 A slight inconvenience was the fact that, when using the keyboard to replace a rest with a note, Musescore would often select the note an octave higher or lower than I wanted, with seemingly little consistency: It selected middle c when I wanted c3 and selected g3 when I wanted g4. This didn't prove too troublesome though, as I was able to drag the note into the correct place afterwards.
 
-Week 3 -
+
+
+[Week 3](https://2892121m.github.io/MCA-2025/verovio.html) -
 See https://2892121m.github.io/MCA-2025/verovio.html
 
 Week 4 - 
