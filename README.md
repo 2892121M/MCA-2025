@@ -40,3 +40,5 @@ I added the genre classifications of 'waltz' and 'piano' using the <annot> funct
 I added the specific licensing data of 'CC0 1.0 Universal' using the <accessrestrict> function. I followed the Creative Commons chooser to make this choice - as my piece is a transcription of a pre-existing public domain piece, I wished to give it that same accessibility so that future users can access and transform it easily.
 
 **[Week 8](https://2892121m.github.io/MCA-2025/week8.html)**
+
+**[Week 10](https://2892121m.github.io/MCA-2025/week10.html)**
