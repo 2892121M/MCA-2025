@@ -28,16 +28,11 @@ A slight inconvenience was the fact that, when using the keyboard to replace a r
 
 **[Week 3](https://2892121m.github.io/MCA-2025/week3.html)**
 
-Week 4 - 
-Of note is that the features 'Last Pitch' and 'Most Common Rhythmic Value' were not present in the latest version of jSymbolic as downloaded from sourceforge [here.](https://sourceforge.net/projects/jmir/files/jSymbolic/) This may be a parity issue, as I used MacOS for this exercise.
-
-The features I looked at were: Pitch Variety, Range, Mean Pitch, Most Common Pitch, and Repeated Notes.
+**[Week 4](https://2892121m.github.io/MCA-2025/week4.html)**
 
 **[Week 5](https://2892121m.github.io/MCA-2025/metaRAW.html)**
 
 **[Week 7](https://2892121m.github.io/MCA-2025/week7.html)** -
-I added the genre classifications of 'waltz' and 'piano' using the <annot> function. These genres were rather self explanitory - the piece follows the waltz structure in 3/4, and the piece is played using only piano.
-I added the specific licensing data of 'CC0 1.0 Universal' using the <accessrestrict> function. I followed the Creative Commons chooser to make this choice - as my piece is a transcription of a pre-existing public domain piece, I wished to give it that same accessibility so that future users can access and transform it easily.
 
 **[Week 8](https://2892121m.github.io/MCA-2025/week8.html)**
 
