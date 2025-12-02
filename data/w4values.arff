@@ -1,0 +1,10 @@
+@relation Converted_from_ACE_XML
+
+@attribute Range numeric
+@attribute Mean_Pitch numeric
+@attribute Most_Common_Pitch_Class numeric
+@attribute Last_Pitch numeric
+@attribute Most_Common_Rhythmic_Value numeric
+
+@data
+40.0, 68.0, 7.0, 84.0, 1.0
