@@ -32,8 +32,10 @@ A slight inconvenience was the fact that, when using the keyboard to replace a r
 
 **[Week 5](https://2892121m.github.io/MCA-2025/week5.html)**
 
-**[Week 7](https://2892121m.github.io/MCA-2025/week7.html)** -
+**[Week 7](https://2892121m.github.io/MCA-2025/week7.html)**
 
 **[Week 8](https://2892121m.github.io/MCA-2025/week8.html)**
+
+**[Week 9](https://2892121m.github.io/MCA-2025/week9.html)**
 
 **[Week 10](https://2892121m.github.io/MCA-2025/week10.html)**
